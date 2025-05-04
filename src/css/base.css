@@ -43,3 +43,12 @@ li {
 a {
   text-decoration: none;
 }
+
+.link-page {
+  display: inline-block;
+  padding: 4px 8px;
+  margin: 32px 15px 0 15px;
+
+  border: 1px solid;
+  border-radius: 8px;
+}
